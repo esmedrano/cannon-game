@@ -1,1 +1,1 @@
-download the images to desktop to play game
+download the images to correct directory to play game
