@@ -1,3 +1,8 @@
+# Cannon sim 
+# by Elijah Medrano
+# 1/14/22
+# Shoot down the paratroopers
+
 import pygame as pg
 from math import sin, asin, cos, sqrt
 from random import randrange
