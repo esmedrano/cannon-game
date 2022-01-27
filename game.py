@@ -5,6 +5,8 @@
 # I wrote this game using only functinos instead of classes and learned to use "init()" 
 # functions to set initial values to allow for iterative changes in the game loop
 
+# SEE def.images() TO SET CORRECT DIRECTORY
+
 import pygame as pg
 from math import sin, asin, cos, sqrt
 from random import randrange
