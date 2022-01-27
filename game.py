@@ -2,6 +2,7 @@
 # by Elijah Medrano
 # 1/14/22
 # Shoot down the paratroopers
+# I wrote this game using only functinos instead of classes as a challenge, since I am familar with OOP (see pygame_art/meta_cube.py)
 
 import pygame as pg
 from math import sin, asin, cos, sqrt
