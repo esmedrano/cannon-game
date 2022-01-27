@@ -202,7 +202,6 @@ def main():
   # Game loop
   while 1:
     # setup
-    hide_mouse()
     cannon()
     text()
     
