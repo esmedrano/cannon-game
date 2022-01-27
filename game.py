@@ -2,7 +2,8 @@
 # by Elijah Medrano
 # 1/14/22
 # Shoot down the paratroopers
-# I wrote this game using only functinos instead of classes as a challenge, since I am familar with OOP (see pygame_art/meta_cube.py)
+# I wrote this game using only functinos instead of classes and learned to use "init()" 
+# functions to set initial values to allow for iterative changes in the game loop
 
 import pygame as pg
 from math import sin, asin, cos, sqrt
