@@ -82,7 +82,7 @@ def artillery_init():
 def bullet_init():
   bullet_init.bullets = []
   bullet_init.size = 4
-  bullet_init.vel = 0.01
+  bullet_init.vel = 0.09
   bullet_init.m_x = 0
   bullet_init.m_y = 0
 
