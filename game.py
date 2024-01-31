@@ -56,8 +56,8 @@ def infantry():
 
 
 def trooper_init():
-  trooper_init.min_vel = 10
-  trooper_init.max_vel = 20
+  trooper_init.min_vel = 100
+  trooper_init.max_vel = 1000
   trooper_init.troopers = [] 
   for _ in [*range(0, 5)]:  # create _ troopers
     trooper_init.troopers.append([randrange(0, display_w, 20), 0, 
